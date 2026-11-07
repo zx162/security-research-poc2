@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html><body>
+<h1>Security Research POC</h1>
+<p>Subdomain takeover demonstration — reported to HackerOne.</p>
+<p>Contact: your-h1-username</p>
+</body></html>
